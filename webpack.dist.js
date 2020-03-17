@@ -6,6 +6,7 @@ module.exports = {
         path: path.join(process.cwd(), 'docs'),
         chunkFilename: '[id].[chunkhash].js',
         filename: '[id].[hash:12].js',
+        publicPath: '/me',
     },
     plugins: [
         ((Plugin) => new Plugin({
