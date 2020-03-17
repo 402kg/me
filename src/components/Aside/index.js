@@ -2,8 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Icon from 'feather-react'
 
-import photo from 'assets/photo.jpg'
-
 import {
     Container,
     Description,
@@ -18,7 +16,10 @@ import {
 
 const Aside = ({ sticky }) => (
     <Container>
-        <Photo alt="Iakov Salikov" src={photo} sticky={sticky} />
+        <Photo
+            sticky={sticky}
+            alt="Iakov Salikov"
+            src="https://avatars1.githubusercontent.com/u/36078770?v=4" />
         <Description>
             <Name>Iakov Salikov</Name>
             <Position>Software Engineer</Position>
