@@ -1,0 +1,26 @@
+[{
+  "id": 1,
+  "title": "JavaScript",
+  "value": 100,
+  "conext": ["ES6 - 8", "Flow", "Babel 7", "Pipelines"]
+}, {
+  "id": 2,
+  "title": "Responsive Web",
+  "value": 95,
+  "conext": ["CSS/HTML", "Styled Components", "Emotion", "Media Quering", "Animation", "SVG"]
+}, {
+  "id": 3,
+  "title": "Web Frameworks and Tools",
+  "value": 81,
+  "conext": ["React / Redux", "Angular / NgRx", "Socket.io", "Jest"]
+}, {
+  "id": 4,
+  "title": "Devops",
+  "value": 73,
+  "conext": ["CI / CD methodologies", "Microservice Architecture", "Docker", "Drone.io", "NGINX", "Bash", "AWS", "Digital Ocean"]
+}, {
+  "id": 5,
+  "title": "Backend development",
+  "value": 62,
+  "conext": ["Node.js", "Golang", "MongoDB", "MySQL", "NATS MQ"]
+}]
