@@ -206,7 +206,7 @@ const Projects = () => (
 
         <Project>
             <Name>Archnode</Name>
-            <Date>June 2019</Date>
+            <Date>July 2019</Date>
             <Description>
                 Full featured archlinux based nodejs docker image
             </Description>
@@ -258,8 +258,8 @@ const Projects = () => (
         </Project>
 
         <Project>
-            <Name>Express boilerplate</Name>
-            <Date>June 2018</Date>
+            <Name>Feather React</Name>
+            <Date>April 2019</Date>
             <Description>
                 The simplest way to start using feather icons as React component
             </Description>
