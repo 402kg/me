@@ -45,7 +45,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/moviex-web">
+                        href="https://github.com/402kg/moviex-web">
                         Source (Web Application)
                     </Link>
                 </LinkItem>
@@ -55,7 +55,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/moviex-api">
+                        href="https://github.com/402kg/moviex-api">
                         Source (API)
                     </Link>
                 </LinkItem>
@@ -97,7 +97,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/steamx-web">
+                        href="https://github.com/402kg/steamx-web">
                         Source (Web Application)
                     </Link>
                 </LinkItem>
@@ -107,7 +107,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/steamx-api">
+                        href="https://github.com/402kg/steamx-api">
                         Source (API)
                     </Link>
                 </LinkItem>
@@ -139,7 +139,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/json-joi">
+                        href="https://github.com/402kg/json-joi">
                         Source
                     </Link>
                 </LinkItem>
@@ -148,34 +148,6 @@ const Projects = () => (
                 <Subtitle>Stack:</Subtitle>
                 <StackItem>Joi</StackItem>
                 <StackItem>Jest</StackItem>
-                <StackItem>Drone</StackItem>
-            </Stack>
-        </Project>
-
-        <Project>
-            <Name>Storybook</Name>
-            <Date>November 2019</Date>
-            <Description>
-                React library boilerplate. Ready to start create your own react components library.
-            </Description>
-            <Links>
-                <Subtitle>Links:</Subtitle>
-                <LinkItem>
-                    <Icon size={14} className={IconClassName}>github</Icon>
-                    <Link
-                        target="__blank"
-                        rel="noopener noreferrer"
-                        href="https://github.com/iknpx/storybook">
-                        Source
-                    </Link>
-                </LinkItem>
-            </Links>
-            <Stack>
-                <Subtitle>Stack:</Subtitle>
-                <StackItem>React</StackItem>
-                <StackItem>React Storybook</StackItem>
-                <StackItem>Styled Components</StackItem>
-                <StackItem>Babel</StackItem>
                 <StackItem>Drone</StackItem>
             </Stack>
         </Project>
@@ -193,7 +165,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/nats-cli">
+                        href="https://github.com/402kg/nats-cli">
                         Source
                     </Link>
                 </LinkItem>
@@ -217,7 +189,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/archnode">
+                        href="https://github.com/402kg/archnode">
                         Source
                     </Link>
                 </LinkItem>
@@ -229,10 +201,10 @@ const Projects = () => (
         </Project>
 
         <Project>
-            <Name>Express boilerplate</Name>
+            <Name>Express Rest</Name>
             <Date>June 2019</Date>
             <Description>
-                Express.js boilerplate with authentication layer
+                Express.js rest-api boilerplate with authentication layer
             </Description>
             <Links>
                 <Subtitle>Links:</Subtitle>
@@ -241,7 +213,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/express">
+                        href="https://github.com/402kg/express">
                         Source
                     </Link>
                 </LinkItem>
@@ -270,7 +242,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/iknpx/feather-react">
+                        href="https://github.com/402kg/feather-react">
                         Source
                     </Link>
                 </LinkItem>

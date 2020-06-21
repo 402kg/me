@@ -6,7 +6,7 @@ const webpack = require('webpack')
 
 const config = require('./webpack')
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
 const app = express()
 const server = http.createServer(app)
