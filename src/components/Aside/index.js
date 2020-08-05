@@ -30,8 +30,8 @@ const Aside = ({ sticky }) => (
                 <Link
                     target="__blank"
                     rel="noopener noreferrer"
-                    href="https://github.com/402kg">
-                    github.com/402kg
+                    href="https://github.com/isalikov">
+                    github.com/isalikov
                 </Link>
             </LinkItem>
 
