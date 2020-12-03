@@ -22,6 +22,80 @@ const Projects = () => (
     <Container>
         <Heading lined>Projects</Heading>
         <Project>
+            <Name>Canary.icu</Name>
+            <Date>November 2020</Date>
+            <Description>
+                Canarian news Telegram bot
+            </Description>
+            <Links>
+                <Subtitle>Links:</Subtitle>
+
+                <LinkItem>
+                    <Icon size={14} className={IconClassName}>link</Icon>
+                    <Link
+                        target="__blank"
+                        rel="noopener noreferrer"
+                        href="https://canary.icu">
+                        Telegram channel
+                    </Link>
+                </LinkItem>
+
+                <LinkItem>
+                    <Icon size={14} className={IconClassName}>github</Icon>
+                    <Link
+                        target="__blank"
+                        rel="noopener noreferrer"
+                        href="https://github.com/isalikov/canary.icu-api">
+                        Source (API)
+                    </Link>
+                </LinkItem>
+
+                <LinkItem>
+                    <Icon size={14} className={IconClassName}>github</Icon>
+                    <Link
+                        target="__blank"
+                        rel="noopener noreferrer"
+                        href="https://github.com/isalikov/canary.icu-bot">
+                        Source (BOT)
+                    </Link>
+                </LinkItem>
+
+            </Links>
+            <Stack>
+                <Subtitle>Stack:</Subtitle>
+                <StackItem>Telegram API</StackItem>
+                <StackItem>Golang/gin</StackItem>
+                <StackItem>Docker/Drone.io</StackItem>
+            </Stack>
+        </Project>
+
+        <Project>
+            <Name>hq-cropper</Name>
+            <Date>October 2020</Date>
+            <Description>
+                Lightweight (20kb) cropper tool for High Quality images
+            </Description>
+            <Links>
+                <Subtitle>Links:</Subtitle>
+
+                <LinkItem>
+                    <Icon size={14} className={IconClassName}>github</Icon>
+                    <Link
+                        target="__blank"
+                        rel="noopener noreferrer"
+                        href="https://github.com/isalikov/hq-cropper">
+                        Source (npm package)
+                    </Link>
+                </LinkItem>
+
+            </Links>
+            <Stack>
+                <Subtitle>Stack:</Subtitle>
+                <StackItem>Pure JavaScript</StackItem>
+            </Stack>
+        </Project>
+
+        <Project>
             <Name>The MovieDB Finder</Name>
             <Date>October 2018</Date>
             <Description>
@@ -45,7 +119,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/moviex-web">
+                        href="https://github.com/isalikov/moviex-web">
                         Source (Web Application)
                     </Link>
                 </LinkItem>
@@ -55,7 +129,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/moviex-api">
+                        href="https://github.com/isalikov/moviex-api">
                         Source (API)
                     </Link>
                 </LinkItem>
@@ -97,7 +171,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/steamx-web">
+                        href="https://github.com/isalikov/steamx-web">
                         Source (Web Application)
                     </Link>
                 </LinkItem>
@@ -107,7 +181,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/steamx-api">
+                        href="https://github.com/isalikov/steamx-api">
                         Source (API)
                     </Link>
                 </LinkItem>
@@ -139,7 +213,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/json-joi">
+                        href="https://github.com/isalikov/json-joi">
                         Source
                     </Link>
                 </LinkItem>
@@ -165,7 +239,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/nats-cli">
+                        href="https://github.com/isalikov/nats-cli">
                         Source
                     </Link>
                 </LinkItem>
@@ -189,7 +263,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/archnode">
+                        href="https://github.com/isalikov/archnode">
                         Source
                     </Link>
                 </LinkItem>
@@ -213,7 +287,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/express">
+                        href="https://github.com/isalikov/express">
                         Source
                     </Link>
                 </LinkItem>
@@ -242,7 +316,7 @@ const Projects = () => (
                     <Link
                         target="__blank"
                         rel="noopener noreferrer"
-                        href="https://github.com/402kg/feather-react">
+                        href="https://github.com/isalikov/feather-react">
                         Source
                     </Link>
                 </LinkItem>

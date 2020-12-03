@@ -50,8 +50,8 @@ const Aside = ({ sticky }) => (
                 <Link
                     target="__blank"
                     rel="noopener noreferrer"
-                    href="mailto:isalikov@pm.me">
-                    isalikov@pm.me
+                    href="mailto:salikovpro@gmail.com">
+                    salikovpro@gmail.com
                 </Link>
             </LinkItem>
         </Links>
