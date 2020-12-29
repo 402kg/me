@@ -11,8 +11,7 @@ const About = () => (
     <Container>
         <Heading lined>About</Heading>
         <Text>
-            Software Engineer with up to 5 years of professional
-            development SaaS platforms and web applications.
+            Software Engineer with skills in SaaS development.
             <br />
             Interested in Open Source projects at first.
             <br />
